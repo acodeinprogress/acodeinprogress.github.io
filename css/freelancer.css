@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
 }
 
-p {
+p, .tech, .general {
     font-size: 20px;
 }
 
@@ -456,4 +456,11 @@ footer .footer-below {
 .portfolio-modal .modal-backdrop {
     display: none;
     opacity: 0;
+}
+.title {
+  display: inline;
+  text-decoration: underline;
+}
+.learning {
+  padding-left: 18px;
 }
