@@ -464,3 +464,10 @@ footer .footer-below {
 .learning {
   padding-left: 18px;
 }
+.logo {
+  height: 50px;
+  margin-right: 15px;
+}
+.general li {
+  padding-bottom: 25px;
+}
